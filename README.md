@@ -1,5 +1,13 @@
 ### Hello! Welcome to my github account 👋
 
+There are some prived projects:
+ - star-one.uz e-commerce project (user, seller, admin sites)
+ - siymo-crm.uz crm project
+ - Realtors (for renting and buying houses)
+ - D-Clinics (automating for all activities of clinics)
+ - D-System (ERP project)
+ - Raqamli-idora.uz (Digital office system, to manage employees of organization)
+
 <!--
 **mirjahonoralov/mirjahonoralov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
